@@ -1,0 +1,16 @@
+query,expected_type,predicted_type,rouge_score
+What is AI regulation?,factual,factual,0.62
+Define AI ethics,factual,factual,0.58
+What is GDPR?,factual,factual,0.60
+Who regulates AI systems?,factual,factual,0.55
+What are AI risks?,factual,factual,0.57
+Compare AI regulations across countries,synthesis,synthesis,0.48
+Impact of AI laws on companies,synthesis,synthesis,0.45
+Analyze AI risk frameworks,synthesis,synthesis,0.50
+Difference between US and EU AI laws,synthesis,synthesis,0.47
+How AI regulation affects innovation,synthesis,synthesis,0.46
+Who is Elon Musk?,out_of_scope,out_of_scope,0.00
+Weather today?,out_of_scope,out_of_scope,0.00
+Best programming language?,out_of_scope,out_of_scope,0.00
+Stock price of Tesla?,out_of_scope,out_of_scope,0.00
+Who won IPL 2025?,out_of_scope,out_of_scope,0.00
